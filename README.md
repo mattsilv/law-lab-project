@@ -53,6 +53,10 @@ To raise a generation of engaged citizens who understand that:
 - Small improvements can make big differences
 - They have the power to shape their community
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
 ---
 
 _The Law Lab Project brings the principles of democracy and justice to life through everyday experiences, empowering children to become thoughtful, engaged citizens who understand how to create positive change in their world._
