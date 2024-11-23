@@ -25,6 +25,26 @@
 - They teach us how to be good family members
 - They help us solve problems together
 
+## How We Handle Disagreements (Dispute Resolution)
+
+When we disagree about rules or have conflicts:
+
+1. First ask: "Is there a rule about this?"
+
+   - If yes, we follow that rule
+   - If no, we may need to make a new rule
+
+2. While we figure it out:
+
+   - Everyone gets to share their side calmly
+   - We look for fair solutions together
+   - Parents have final say in interpreting rules (Supreme Court)
+
+3. Making New Rules:
+   - We can suggest new rules for new situations
+   - We discuss if the rule is needed
+   - We make sure it's fair and helps everyone
+
 ## How We Can Change Rules (Amendment Rights)
 
 Everyone in the family can suggest changes to make our home better:
